@@ -1,3 +1,5 @@
+<h1>PT-BR</h1>
+
 <div>
   <h1>Olá a todos, eu sou o Iago!</h1>
 </div>
@@ -9,6 +11,19 @@
   <p>🕵🏻‍♂️ Atrás de oportunidades para estágio!</p>
   <p>🌟 Sempre disposto e aberto a novos desafios.</p>
   <p>🎮 Possuo conhecimento sobre programação por Blueprints na Unreal Engine (que foi o que me fez começar a programar)</p><hr>
+</div>
+<h1>EN-US</h1>
+<div>
+  <h1>Hello everyone, I'm Iago!</h1>
+</div>
+<div>
+  <p>I'm 22 years old and I'm in the process of becoming a FullStack programmer, but still in the early stages of this long journey.</p>
+  <p>👨🏻‍🎓 Student of Systems Analysis and Development at the Federal Institute of São Paulo - Bragança Paulista</p>
+  <p>👨🏻‍💻 Learning to program in C, Python, and JavaScript.</p>
+  <p>🖥 Developing in HTML & CSS.</p>
+  <p>🕵🏻‍♂️ Looking for internship opportunities!</p>
+  <p>🌟 Always willing and open to new challenges.</p>
+  <p>🎮 I have knowledge of programming with Blueprints in the Unreal Engine (which is what got me started programming).</p><hr>
 </div>
 <div>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
