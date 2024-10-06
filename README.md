@@ -17,7 +17,7 @@
   <h1>Hello everyone, I'm Iago!</h1>
 </div>
 <div>
-  <p>I'm 22 years old and I'm in the process of becoming a FullStack programmer, but still in the early stages of this long journey.</p>
+  <p>I'm 23 years old and I'm in the process of becoming a FullStack programmer, but still in the early stages of this long journey.</p>
   <p>👨🏻‍🎓 Student of Systems Analysis and Development at the Federal Institute of São Paulo - Bragança Paulista</p>
   <p>👨🏻‍💻 Learning to program in C, Python, and JavaScript.</p>
   <p>🖥 Developing in HTML & CSS.</p>
