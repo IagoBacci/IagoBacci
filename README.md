@@ -4,7 +4,7 @@
   <h1>Olá a todos, eu sou o Iago Bacci!</h1>
 </div>
 <div>
-  <p> Tenho 23 anos e estou no desenvolvimento para me tornar um programador FullStack, mas ainda nos primeiros degraus dessa longa jornada. </p>
+  <p> Tenho 24 anos e estou no desenvolvimento para me tornar um programador FullStack, mas ainda nos primeiros degraus dessa longa jornada. </p>
   <p>👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Bragança Paulista</p>
   <p>👨🏻‍💻 Aprendendo a programar em C#, Python, Java e JavaScript.</p>
   <p>🖥 Desenvolvendo em HTML & CSS.</p>
@@ -17,7 +17,7 @@
   <h1>Hello everyone, I'm Iago!</h1>
 </div>
 <div>
-  <p>I'm 23 years old and I'm in the process of becoming a FullStack programmer, but still in the early stages of this long journey.</p>
+  <p>I'm 24 years old and I'm in the process of becoming a FullStack programmer, but still in the early stages of this long journey.</p>
   <p>👨🏻‍🎓 Student of Systems Analysis and Development at the Federal Institute of São Paulo - Bragança Paulista</p>
   <p>👨🏻‍💻 Learning to program in C#, Python, Java and JavaScript.</p>
   <p>🖥 Developing in HTML & CSS.</p>
